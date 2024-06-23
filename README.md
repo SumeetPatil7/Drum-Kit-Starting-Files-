@@ -3,7 +3,7 @@
 
 
 
-![logo](https://github.com/mumal885/Drum-Kit-Starting-Files/blob/main/dk.png)
+![logo](https://github.com/SumeetPatil7/Drum-Kit-Starting-Files-/blob/main/Drum%20Kit%20Starting%20Files%20%20%2B/dk.png)
 # Drum-Kit
 This Drum-Kit is coded in html, css,js.
 
